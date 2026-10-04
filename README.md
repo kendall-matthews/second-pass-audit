@@ -73,8 +73,12 @@ The operator remains responsible for the final decision.
 - [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) — third-party source boundaries
 - [LICENSE](LICENSE) — CC BY 4.0 legal text
 
-## Read the full story
+## Read the articles
 
-https://kendallmatthews.com/second-pass-audit-decision-making/
+**Start here:** [The Problem Isn't Generation. It's Acceptance: The Second-Pass Audit](https://kendallmatthews.com/second-pass-audit-decision-making/)  
+The cornerstone article explains the acceptance problem, the method, its boundaries, and a worked campaign example.
+
+**Origin:** [What Did You Miss? How a Simple Question Became My Second-Pass Audit](https://kendallmatthews.com/what-did-you-miss-second-pass-audit/)  
+The origin story shows how a recurring self-check evolved into source comparison, guardrails, correction, rechecks, and an acceptance decision.
 
 Created by Kendall E. Matthews.
