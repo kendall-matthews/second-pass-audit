@@ -25,7 +25,7 @@ Return:
 4. Affected downstream elements that need rechecking.
 5. Next action.
 
-Do not treat source fidelity as proof that the source itself is correct.
+Matching the source does not prove the source is right.
 
 If the source is insufficient or consequential expert judgment remains unresolved, return HOLD.
 ```
