@@ -1,6 +1,6 @@
 # Second-Pass Audit
 
-A practical acceptance method for consequential AI-assisted work.
+Use this before you trust important AI-assisted work.
 
 AI can produce work that looks finished before it has earned acceptance.
 
@@ -8,21 +8,46 @@ Second-Pass Audit creates a deliberate checkpoint between generation and action:
 
 **COMPARE → IDENTIFY → CORRECT → RECHECK → DECIDE**
 
-For the public AI-facing method, every audit ends with:
+Every audit ends with:
 
 **SHIP / REVISE / HOLD**
 
-## Use it now
+## Start here
 
-Want to run a Second-Pass Audit on work you are considering accepting?
+**You do not need to know GitHub or how to code. You do not need to install anything to try the method.**
 
-1. Open the [Quick-use prompt](PROMPT.md).
-2. Paste or attach the work or recommendation.
-3. Add the decision-relevant source, evidence, requirements, or constraints that should govern it.
-4. State what you are about to approve, present, publish, sign, buy, follow, or act on.
-5. Run the audit and get a **SHIP / REVISE / HOLD** decision.
+The fastest way to use Second-Pass Audit is:
+
+1. Open the [Quick-use Prompt](PROMPT.md).
+2. Copy it into the AI tool you already use.
+3. Add the work you want to check.
+4. Add the source, evidence, requirements, records, or other material the work should follow.
+5. State what you are about to do with the work.
+6. Run the audit and get a **SHIP / REVISE / HOLD** decision.
 
 **[Open the Quick-use Prompt →](PROMPT.md)**
+
+Some AI tools let you save instructions, upload files, or create reusable projects or assistants. You can use the files here that way when your AI tool supports it, but setup differs by product. **You do not need to install a "Skill" to use Second-Pass Audit.**
+
+## New to GitHub?
+
+GitHub is simply where the public source files live.
+
+You can read any file by clicking its name.
+
+If you want all of the repository files on your computer, use GitHub's **Code** menu and choose **Download ZIP**.
+
+You can also ignore GitHub entirely and use the Quick-use Prompt above.
+
+## Choose what you need
+
+| If you want to... | Open this |
+| --- | --- |
+| **Try it right now** | [Quick-use Prompt](PROMPT.md) |
+| **Use reusable AI instructions** | [Reusable AI Instructions](SKILL.md) |
+| **Understand the full method** | [Full Second-Pass Audit](SECOND-PASS-AUDIT.md) |
+| **See how it works** | [Examples](EXAMPLES.md) |
+| **Understand what it cannot do** | [Limitations](LIMITATIONS.md) |
 
 ## The idea
 
@@ -38,13 +63,13 @@ Later, concepts from software evaluation, regression testing, and acceptance tes
 
 ## Use it when
 
-Use a Second-Pass Audit when AI-assisted work is consequential enough that a material omission, unsupported conclusion, missed constraint, or weak interpretation could change what you approve, present, publish, or act on.
+Use a Second-Pass Audit when AI-assisted work is important enough that a material omission, unsupported conclusion, missed requirement, or weak interpretation could change what you approve, present, publish, or act on.
 
 You need three inputs:
 
 1. The work or recommendation you are considering.
-2. The decision-relevant source, evidence, requirements, or constraints.
-3. The intended use or decision.
+2. The source, evidence, requirements, records, terms, or other material that should govern it.
+3. What you are about to do with the work.
 
 ## What it checks
 
@@ -53,12 +78,12 @@ You need three inputs:
 - interpretive errors
 - unsupported conclusions
 - weak interpretations
-- underweighted details
+- important details given too little weight
 - missed constraints or qualifiers
 - changed emphasis
 - downstream inconsistencies
 
-## Public outcomes
+## Outcomes
 
 **SHIP** — no unresolved material issue remains for the intended use.
 
@@ -72,15 +97,10 @@ You need three inputs:
 
 Second-Pass Audit does not prove that the source itself is true, current, complete, or appropriate. It does not replace medical, legal, financial, technical, security, compliance, customer, or other qualified review when that review is required.
 
-The operator remains responsible for the final decision.
+The person or organization acting on the work remains responsible for the final decision.
 
-## Files
+## Additional files
 
-- [SKILL.md](SKILL.md) — portable public Skill
-- [PROMPT.md](PROMPT.md) — quick-use prompt
-- [SECOND-PASS-AUDIT.md](SECOND-PASS-AUDIT.md) — complete public method
-- [EXAMPLES.md](EXAMPLES.md) — worked and sanitized examples
-- [LIMITATIONS.md](LIMITATIONS.md) — boundaries
 - [ATTRIBUTION.md](ATTRIBUTION.md) — attribution guidance
 - [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) — third-party source boundaries
 - [LICENSE](LICENSE) — CC BY 4.0 legal text
