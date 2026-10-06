@@ -83,7 +83,7 @@ This does not convert Second-Pass Audit into medical, legal, financial, engineer
 
 ## Final boundary
 
-**Source fidelity is not source truth.**
+**Matching the source does not prove the source is right.**
 
 An answer can perfectly match a bad or outdated source. The audit may therefore surface a higher-order question:
 
