@@ -13,7 +13,7 @@ Use this method when the consequence of accepting a weak AI-assisted answer, rec
 2. Decision-relevant source, evidence, requirements, or constraints.
 3. Intended use or decision.
 
-If a required source is missing, do not simulate source fidelity. Return **HOLD** and identify the smallest missing evidence step.
+If a required source is missing, do not pretend the work can be checked against it. Return **HOLD** and identify the smallest missing evidence step.
 
 ## Method
 
@@ -63,7 +63,7 @@ Return one outcome:
 
 ## Boundaries
 
-**Source fidelity is not source truth.**
+**Matching the source does not prove the source is right.**
 
 Do not claim this method proves correctness, guarantees safety, replaces professional judgment, or validates an unreliable source.
 
