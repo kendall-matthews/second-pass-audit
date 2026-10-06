@@ -27,6 +27,8 @@ The fastest way to use Second-Pass Audit is:
 
 **[Open the Quick-use Prompt →](PROMPT.md)**
 
+Prefer everything in one file? **[Download the Complete Kit](https://docs.google.com/document/d/1aR0qhxwvuKfMd7YRXnKCdHTNAOWcSgU6ZsXA1qMLzk4/export?format=pdf)**.
+
 Some AI tools let you save instructions, upload files, or create reusable projects or assistants. You can use the files here that way when your AI tool supports it, but setup differs by product. **You do not need to install a "Skill" to use Second-Pass Audit.**
 
 ## New to GitHub?
