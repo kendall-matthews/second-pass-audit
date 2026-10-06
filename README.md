@@ -12,6 +12,18 @@ For the public AI-facing method, every audit ends with:
 
 **SHIP / REVISE / HOLD**
 
+## Use it now
+
+Want to run a Second-Pass Audit on work you are considering accepting?
+
+1. Open the [Quick-use prompt](PROMPT.md).
+2. Paste or attach the work or recommendation.
+3. Add the decision-relevant source, evidence, requirements, or constraints that should govern it.
+4. State what you are about to approve, present, publish, sign, buy, follow, or act on.
+5. Run the audit and get a **SHIP / REVISE / HOLD** decision.
+
+**[Open the Quick-use Prompt →](PROMPT.md)**
+
 ## The idea
 
 **The problem is not only generation. It is acceptance.**
@@ -56,7 +68,7 @@ You need three inputs:
 
 ## Important limit
 
-**Source fidelity is not source truth.**
+**Matching the source does not prove the source is right.**
 
 Second-Pass Audit does not prove that the source itself is true, current, complete, or appropriate. It does not replace medical, legal, financial, technical, security, compliance, customer, or other qualified review when that review is required.
 
