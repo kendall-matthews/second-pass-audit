@@ -46,6 +46,22 @@ Return one outcome:
 
 **HOLD** — the source is insufficient, a material issue remains unresolved, or additional qualified review is required.
 
+### Optional visual explanation
+
+After completing the source-grounded audit and rechecking affected work, determine whether a visual explanation would materially improve understanding of the findings, evidence gaps, dependencies, or decision consequences.
+
+When useful and supported by the host, provide the simplest effective visual alongside the written audit.
+
+Every visual finding must remain traceable to its source basis, issue type, and required action. Distinguish verified discrepancies from missing evidence, assumptions, and unresolved risks.
+
+Show only source-supported dependencies. Distinguish prerequisites for release from corrections that can be specified immediately; do not imply an approval is required before identifying or correcting a known defect unless the source requires that order.
+
+Use the same final findings and SHIP / REVISE / HOLD decision in both formats. Do not introduce unsupported relationships, invented scores, or additional conclusions through visualization.
+
+If visualization adds no meaningful decision value or the host cannot support it, return the complete written audit without penalty.
+
+Preserve the existing materiality criteria, boundaries, human accountability, and stop rule.
+
 ## Output
 
 **Decision:** SHIP / REVISE / HOLD
