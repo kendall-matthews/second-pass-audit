@@ -59,6 +59,20 @@ Verify the areas affected by the correction so the fix does not create a regress
 ### DECIDE
 Return **SHIP**, **REVISE**, or **HOLD**.
 
+## Visual explanation (optional)
+
+A visual can make **relationships** among material findings easier to understand. It is not another acceptance test. First complete COMPARE → IDENTIFY → CORRECT → RECHECK → DECIDE, then determine whether an evidence map, dependency diagram, comparison, or another simple visual would actually help.
+
+When visualizing:
+
+- Show the complete written audit as well. Both formats must reflect the same source-grounded findings, actions, and SHIP / REVISE / HOLD decision.
+- Trace every visual finding to the governing source. Distinguish a confirmed defect from missing evidence, an assumption, or an unresolved risk.
+- Include only dependencies established by the source. An approval may block release without blocking correction of a known error.
+- Do not fabricate scores, approvals, prerequisite sequences, relationships, or conclusions to fill a diagram.
+- Use a complete text-only audit when the host cannot render a visual or when it would add no material value.
+
+A diagram can help explain a finding; it cannot make the underlying source more reliable. See [the illustrative evidence map](EXAMPLES.md#example-4-optional-visual-explanation).
+
 ## Stop rule
 
 The goal is not endless review.
