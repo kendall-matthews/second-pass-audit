@@ -93,6 +93,16 @@ You need three inputs:
 
 **HOLD** — evidence is insufficient, a material issue remains unresolved, or additional qualified review is required.
 
+## Optional visual explanation
+
+Second-Pass Audit can also **show** material gaps, evidence, and dependencies when a visual makes the decision easier to understand. This optional explanation layer is not a new method, and not every AI tool supports diagram rendering.
+
+Run the source-grounded audit first. If useful and supported, request an evidence map, comparison, or dependency diagram **alongside the complete written audit**. Every visual finding must map to a source, a material issue, and a required action. Missing evidence must not look like a disproven claim. A known defect must not appear to require unrelated approval before correction.
+
+The visual cannot change the **SHIP / REVISE / HOLD** standard or introduce invented relationships, approvals, scores, or certainty. When a visual adds nothing or is unsupported, the full written answer is sufficient.
+
+The [Quick-use Prompt](PROMPT.md) includes optional visualization instructions. See the [worked visual example](EXAMPLES.md#example-4-optional-visual-explanation).
+
 ## Important limit
 
 **Matching the source does not prove the source is right.**
