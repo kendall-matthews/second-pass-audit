@@ -1,6 +1,6 @@
 # Second-Pass Audit
 
-<img src="https://kendallmatthews.com/wp-content/uploads/2026/10/second-pass-audit-approved-logo.png" alt="Second-Pass Audit approved logo: abstract S with a 2 in negative space" width="128" height="128" />
+<img src="https://kendallmatthews.com/wp-content/uploads/2026/10/second-pass-audit-transparent-logo.png" alt="Second-Pass Audit approved logo: abstract S with a 2 in negative space" width="128" height="128" />
 
 Use this before you trust important AI-assisted work.
 
