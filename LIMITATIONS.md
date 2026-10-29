@@ -11,6 +11,8 @@ Second-Pass Audit does not:
 - replace executive or human judgment
 - establish universal performance improvement
 - require every low-risk task to receive a full audit
+- guarantee that an AI host can produce or render visual explanations
+- make a diagram independent evidence of correctness, source reliability, approval status, or causal relationships
 
 AI can also miss issues while conducting the audit.
 
