@@ -39,3 +39,41 @@ The proposal describes the deliverable and payment schedule but does not define 
 **Decision: REVISE or HOLD**, depending on consequence.
 
 The audit does not establish whether the vendor is trustworthy. It identifies decision-relevant gaps before acceptance.
+
+## Example 4: optional visual explanation
+
+*Illustrative example. These source labels and figures are invented solely to demonstrate the method.*
+
+**Governing sources**
+
+- **S1 — Budget rule:** the campaign spend limit is **$2,000**.
+- **S2 — Quote policy:** a customer quote cannot be published until consent is documented.
+- **S3 — Launch decision:** no publication date has been approved.
+
+**Draft:** The campaign claims a **$2,500** budget, includes the quote for publication, and announces launch next Monday.
+
+**Source-grounded findings**
+
+| Source | Issue | Required action | Classification |
+| --- | --- | --- | --- |
+| S1 | Budget exceeds the documented limit | Correct to $2,000 and recheck spending references | Known defect; correction can start now |
+| S2 | Publication consent is not documented | Obtain consent or remove quote; recheck published copy | Unresolved release prerequisite |
+| S3 | No launch date has been approved | Obtain date approval or remove date claim; recheck schedule references | Unresolved release prerequisite |
+
+**Optional visual relationship map**
+
+```mermaid
+flowchart LR
+    S1["S1: $2,000 budget limit"] --> C1["Correct budget claim"]
+    C1 --> R1["Recheck spend references"]
+    S2["S2: Consent required"] --> P2["Obtain consent or remove quote"]
+    S3["S3: Date not approved"] --> P3["Approve date or remove date claim"]
+    R1 --> G["Release readiness recheck"]
+    P2 --> G
+    P3 --> G
+```
+
+The paths are independent. The diagram does not invent an order between consent and date approval, and neither approval prevents correction of the budget claim.
+
+**Decision: HOLD.** The package is not ready for publication until release requirements are resolved and affected content is rechecked. The diagram explains the known facts but is not independent evidence.
+
